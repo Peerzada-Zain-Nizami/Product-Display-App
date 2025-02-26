@@ -66,10 +66,10 @@ Follow these steps to set up and run the application:
      DB_PASSWORD=your_password
 
      BROADCAST_DRIVER=pusher
-    PUSHER_APP_ID=1948427
-    PUSHER_APP_KEY=b95d7bcc8929e45c785c
-    PUSHER_APP_SECRET=836687f93d296f12703c
-    PUSHER_APP_CLUSTER=us2
+     PUSHER_APP_ID=1948427
+     PUSHER_APP_KEY=b95d7bcc8929e45c785c
+     PUSHER_APP_SECRET=836687f93d296f12703c
+     PUSHER_APP_CLUSTER=us2
      ```
 
 5. **Run database migrations**:
