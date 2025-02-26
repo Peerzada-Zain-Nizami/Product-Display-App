@@ -25,7 +25,7 @@ Follow these steps to set up and run the application:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Peerzada-Zain-Nizami/Product-Display-App.git
    cd your-repo-name
    ```
 
@@ -61,15 +61,15 @@ Follow these steps to set up and run the application:
      DB_CONNECTION=mysql
      DB_HOST=127.0.0.1
      DB_PORT=3306
-     DB_DATABASE=your_database
+     DB_DATABASE=product_display
      DB_USERNAME=your_username
      DB_PASSWORD=your_password
 
      BROADCAST_DRIVER=pusher
-     PUSHER_APP_ID=your_pusher_app_id
-     PUSHER_APP_KEY=your_pusher_app_key
-     PUSHER_APP_SECRET=your_pusher_app_secret
-     PUSHER_APP_CLUSTER=your_pusher_app_cluster
+    PUSHER_APP_ID=1948427
+    PUSHER_APP_KEY=b95d7bcc8929e45c785c
+    PUSHER_APP_SECRET=836687f93d296f12703c
+    PUSHER_APP_CLUSTER=us2
      ```
 
 5. **Run database migrations**:
